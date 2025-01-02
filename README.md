@@ -28,7 +28,8 @@ Open Source Path finder is a web application that allows users to search for pro
 1. Clone the repository:
 
    ```bash
-
+   git clone https://github.com/realvishalrana/Open-Source-Path-finder.git
+   cd Open-Source-Path-finder
    ```
 
 2. Install dependencies:
