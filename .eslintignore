@@ -1,0 +1,15 @@
+node_modules
+cspell.json
+next.config.js
+tailwind.config.js
+alias.config.js
+webpack.config.js
+postcss.config.js
+*.sh
+.next
+next-env.d.ts
+yarn.lock
+package-lock.json
+public
+.env.*
+!public/locales
